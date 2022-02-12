@@ -1,1 +1,1 @@
-A place where I open source my themes.
+A place where I share my themes for visual studio code.
