@@ -1,4 +1,4 @@
-### NOTE:
+# NOTE:
 [Project has moved here](https://lab.xcord.org/xynny/vsthemes)
 
 # VS Code themes
